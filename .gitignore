@@ -1,2 +1,5 @@
+# Python compiler files
 *.pyc
+
+# IDE related files
 .idea/*
