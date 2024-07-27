@@ -1,8 +1,9 @@
 # No modules required
 
-class test:
+class Test:
     def __init__(self):
         pass
 
-    def run_solution(self):
+    @staticmethod
+    def run_solution() -> None:
         print("First step to run a solution")
